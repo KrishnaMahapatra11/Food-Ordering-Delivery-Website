@@ -1,6 +1,3 @@
-# food ordering delivery website Here’s a **README** file for your **Food Ordering and Delivery Website using MERN Stack** project on GitHub:
-
----
 
 # Food Ordering and Delivery Website (MERN Stack)
 
