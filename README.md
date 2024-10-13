@@ -94,10 +94,3 @@ The app is structured as follows:
 - Order Confirmation Page
 - Order History
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-You can modify the URLs and any payment gateway specifics before uploading this to your GitHub repository【28†source】.
